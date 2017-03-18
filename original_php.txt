@@ -1,4 +1,7 @@
-Original php code copied here.
+Tutorial at: 
+https://docs.travis-ci.com/user/for-beginners
+
+Original Test.php code copied here.
 <?php 
 /*original*/
 class Test extends PHPUnit_Framework_TestCase
