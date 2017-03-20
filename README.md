@@ -2,6 +2,8 @@
 
 An example that will cause a build failure
 
-Just following the tutorial
+Just following the tutorials
 
 https://docs.travis-ci.com/user/for-beginners
+
+https://travis-ci.org/getting_started
